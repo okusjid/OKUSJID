@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=okusjid&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Badge" />
 </p>
 
-- 🌱 I’m currently learning **React, Flask**
+- 🌱 I’m currently learning **React, Django and Postgres**
 - 📫 How to reach me: **usjidn@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
