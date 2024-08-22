@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
-<img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FFC107&size=35&center=true&vCenter=true&lines=I%20am%20Usjid%20Nisar" />
+<img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FFC107&size=35&center=true&vCenter=true&lines=I%20am%20Usjid%20Nisar%20%20%20!" />
 
 <h3 align="center">A Passionate Computer Scientist from Pakistan</h3>
 
